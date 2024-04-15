@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "eid": "1",
+      "ename": "ravi",
+      "esal": "200000",
+      "id": 1
+    },
+    {
+      "eid": "3",
+      "ename": "Rutuja",
+      "esal": "500000",
+      "id": 3
+    }
+  ]
+}
